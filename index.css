@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 80 40% 95%;
+    --foreground: 130 40% 15%;
+
+    --card: 80 30% 92%;
+    --card-foreground: 130 40% 15%;
+
+    --popover: 80 30% 92%;
+    --popover-foreground: 130 40% 15%;
+
+    --primary: 130 50% 25%;
+    --primary-foreground: 80 40% 95%;
+
+    --secondary: 80 20% 88%;
+    --secondary-foreground: 130 30% 25%;
+
+    --muted: 80 15% 90%;
+    --muted-foreground: 130 15% 45%;
+
+    --accent: 130 35% 35%;
+    --accent-foreground: 80 40% 95%;
+
+    --destructive: 0 72% 45%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 130 15% 80%;
+    --input: 130 15% 80%;
+    --ring: 130 50% 25%;
+
+    --radius: 0.75rem;
+
+    --neon-glow: 130 50% 25%;
+    --neon-purple: 130 35% 35%;
+    --neon-blue: 130 40% 30%;
+    --gain: 130 60% 30%;
+    --loss: 0 72% 45%;
+    --warning: 40 80% 45%;
+
+    --sidebar-background: 80 30% 93%;
+    --sidebar-foreground: 130 40% 15%;
+    --sidebar-primary: 130 50% 25%;
+    --sidebar-primary-foreground: 80 40% 95%;
+    --sidebar-accent: 80 20% 88%;
+    --sidebar-accent-foreground: 130 30% 25%;
+    --sidebar-border: 130 15% 80%;
+    --sidebar-ring: 130 50% 25%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-body antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display;
+  }
+}
+
+@layer utilities {
+  .neon-glow {
+    box-shadow: 0 0 20px hsl(var(--neon-glow) / 0.3),
+                0 0 60px hsl(var(--neon-glow) / 0.1);
+  }
+
+  .neon-glow-text {
+    text-shadow: 0 0 20px hsl(var(--neon-glow) / 0.5),
+                 0 0 40px hsl(var(--neon-glow) / 0.2);
+  }
+
+  .neon-border {
+    border-color: hsl(var(--neon-glow) / 0.4);
+    box-shadow: 0 0 10px hsl(var(--neon-glow) / 0.15),
+                inset 0 0 10px hsl(var(--neon-glow) / 0.05);
+  }
+
+  .glass-card {
+    @apply bg-card/60 backdrop-blur-xl border border-border/50;
+  }
+
+  .gradient-primary {
+    background: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--neon-blue)));
+  }
+
+  .gradient-accent {
+    background: linear-gradient(135deg, hsl(var(--neon-purple)), hsl(var(--primary)));
+  }
+
+  .text-gradient-primary {
+    background: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--neon-blue)));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .text-gradient-accent {
+    background: linear-gradient(135deg, hsl(var(--neon-purple)), hsl(var(--primary)));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}
