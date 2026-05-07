@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+Invest, compete, and WIN with VestEd AI.
 
-Prove to employers that YOU can win in real world competition. Business professors show slides in a lecture hall, VestEd gives you the ability to outrank even the Ivy Leagues on leaderboards to prove you are the best candidate in finance.
+Now any student can outrank the Ivy Leagues. With VestEd, everyone is in the same league, giving ALL business students the ability to prove that they can WIN in the real world.
