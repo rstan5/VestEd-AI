@@ -7,7 +7,7 @@ The Problem:
 
 Finance education is broken.
 
-Business students at top universities:
+Business students at top universities - 
 
 - Memorize theory instead of building skill
 - Graduate with no real market experience
@@ -22,7 +22,7 @@ The Insight:
 Finance is not a subject.
 It’s a competitive sport.
 
-And yet:
+And yet - 
 
 There is no global leaderboard for investors,
 no structured way to compete across universities,
@@ -61,7 +61,7 @@ What Users Do:
 - Your strategy is visible
 - Your skill becomes measurable
 
-🧬 The Core Loop
+The Core Loop - 
 
 Trade in simulated markets,
 compete against other students.
@@ -69,7 +69,7 @@ get ranked on leaderboards,
 improve through AI feedback, and
 repeat until you’re at the top.
 
-🧠 Why VestEd Wins
+Why VestEd Wins:
 
 Before VestEd:
 Finance education = passive learning
@@ -80,7 +80,7 @@ Finance education = competition
 Talent = ranked globally
 Skill = publicly proven
 
-🔥 What Makes VestEd Different
+What Makes VestEd Different:
 
 Not a course
 Not a simulation tool
@@ -102,7 +102,7 @@ More specifically:
 - Students targeting Wall Street roles
 - Competitive learners who hate passive education
 
-🚀 The Vision
+The Vision - 
 
 We are building the League of Legends for finance education.
 
@@ -112,7 +112,7 @@ Schools compete like esports teams,
 students build public track records, and
 hiring being based on performance, not prestige.
 
-🔓 Join the Beta
+Join the Beta - 
 
 VestEd is currently in beta. Take advantage of:
 
@@ -120,6 +120,6 @@ VestEd is currently in beta. Take advantage of:
 - Early leaderboard positioning
 - First-mover advantage in competitive finance
 
-📬 Contact
+Contact - 
 
 vestedaiownership@gmail.com
