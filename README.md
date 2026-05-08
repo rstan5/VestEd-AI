@@ -179,12 +179,6 @@ Email: vestedaiownership@gmail.com
 
 ---
 
-## 📄 License
-
-MIT License © 2026 VestEd
-
----
-
 # 🏛 VestEd
 
 ### Become the 1%
