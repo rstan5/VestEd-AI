@@ -1,125 +1,192 @@
-VestEd - Invest. Compete. Win.
+# VestEd
 
-The first competitive finance platform where students don’t learn 
-by watching lectures, they learn by beating each other in the market.
+> Invest, Compete, WIN.
 
-The Problem:
+VestEd is a competitive finance platform built for the next generation of investors, analysts, and business leaders. Designed for students, VestEd combines AI-powered portfolio coaching, real-market paper trading, and university investment competitions into one platform.
 
-Finance education is broken.
+Now any student can compete on the same field as the Ivy Leagues.
 
-Business students at top universities - 
+---
 
-- Memorize theory instead of building skill
-- Graduate with no real market experience
-- Compete for jobs with identical resumes
-- Have no proof they can actually perform
+## 🚀 What is VestEd?
 
-Meanwhile, employers don’t want GPA.
-They want performance under pressure.
+VestEd is where students prove skill through performance — not prestige.
 
-The Insight:
+Traditional business education rewards resumes and networking. VestEd rewards results.
 
-Finance is not a subject.
-It’s a competitive sport.
+Students can:
+- Build portfolios using live market data
+- Compete against universities nationwide
+- Receive AI-powered portfolio analysis
+- Practice trading without risking real money
+- Showcase measurable investing skill to employers
 
-And yet - 
+---
 
-There is no global leaderboard for investors,
-no structured way to compete across universities,
-and no real signal of skill before Wall Street interviews.
+## 💡 Core Features
 
-Until now.
+### 📊 AI Portfolio Professor
 
-The Solution:
+Upload your portfolio and receive hedge-fund-style analysis powered by AI.
 
-VestEd turns finance education into a real-time competitive arena.
-Students don’t just learn investing, they compete, rank, and prove it.
+Get:
+- Portfolio strengths & weaknesses
+- Risk exposure analysis
+- Diversification insights
+- Performance breakdowns
+- “What-if” market scenarios
+- Personalized investment feedback
 
-What Users Do:
+VestEd teaches strategy, not just returns.
 
-📈 Trade in a Real Market Simulation
+---
 
-- Paper trading with live market data
-- Zero risk, full realism
-- Track performance like a professional fund manager
+### 💹 Paper Trading Arena
 
-🧠 Learn From an AI Portfolio Professor
+Trade with live market data using simulated capital.
 
-- Upload your portfolio
-- Get hedge-fund-level feedback
-- Understand what’s working, what’s failing, and why
+- Real-time stock pricing
+- Zero financial risk
+- Track profit & loss
+- Practice investing strategies
+- Learn market behavior in real conditions
 
-🏆 Compete Against Other Universities
+Perfect for beginners and aspiring finance professionals alike.
 
-- Join your school’s investment club
-- Compete in structured trading competitions
-- Climb national and global leaderboards
+---
 
-📊 Build a Public Performance Track Record
+### 🏆 College Investment Competitions
 
-- Your results are ranked
-- Your strategy is visible
-- Your skill becomes measurable
+Represent your school and compete nationally.
 
-The Core Loop - 
+Students can:
+- Join university investment clubs
+- Build solo or team portfolios
+- Enter national competitions
+- Climb live leaderboards
+- Compete against top schools
 
-Trade in simulated markets,
-compete against other students.
-get ranked on leaderboards,
-improve through AI feedback, and
-repeat until you’re at the top.
+---
 
-Why VestEd Wins:
+## 📈 National Leaderboards
 
-Before VestEd:
-Finance education = passive learning
-Talent = hidden
-Skill = unmeasurable
-After VestEd:
-Finance education = competition
-Talent = ranked globally
-Skill = publicly proven
+VestEd transforms investing education into a competitive arena.
 
-What Makes VestEd Different:
+| Rank | School | Performance |
+|---|---|---|
+| #1 | MIT Investors Club | +24.3% |
+| #2 | Stanford Finance Society | +21.7% |
+| #3 | Wharton Trading Group | +19.2% |
+| #4 | Berkeley Econ Club | +17.8% |
+| #5 | NYU Stern Investors | +15.4% |
 
-Not a course
-Not a simulation tool
-Not a paper trading app
+---
 
-It is a competitive financial ecosystem.
+## 🎯 Why VestEd Exists
 
-Built for:
+Most students never get the opportunity to prove they can outperform.
 
-Students who want to outperform peers,
-clubs that want to dominate nationally,
-and employers who want real signals of talent.
+VestEd changes that.
 
-More specifically:
+The platform gives every student — regardless of school, background, or connections — a chance to:
+- Demonstrate investing ability
+- Build real-world financial skills
+- Develop a measurable track record
+- Stand out to employers
 
+---
+
+## 🧠 Built for Real Skill Development
+
+VestEd focuses on:
+- Applied investing
+- Market analysis
+- Competitive finance
+- Strategic thinking
+- Risk management
+- Performance under pressure
+
+No lecture hall fluff. Just real-world financial skill building.
+
+---
+
+## 🔥 What Makes VestEd Different?
+
+Unlike traditional paper trading apps, VestEd combines:
+
+- AI-driven investment education
+- Real-time competitive environments
+- University investment club ecosystems
+- Public performance leaderboards
+- Career-focused skill signaling
+
+VestEd is not just a simulator — it is a proving ground.
+
+---
+
+## 🏫 Who is VestEd For?
+
+- Finance students
 - Business students
-- Finance clubs
-- Aspiring traders
-- Students targeting Wall Street roles
-- Competitive learners who hate passive education
+- Investment clubs
+- Aspiring analysts & traders
+- Competitive students
+- Future Wall Street professionals
+- Beginners learning investing fundamentals
 
-The Vision - 
+---
 
-We are building the League of Legends for finance education.
+## 🛠 Example Tech Stack
 
-A world where:
+- Frontend: Next.js / React
+- Backend: Node.js / Express
+- Database: PostgreSQL / Firebase
+- Market Data APIs: Polygon / Alpha Vantage / Finnhub
+- AI Systems: OpenAI API
+- Authentication: Clerk / Firebase Auth
+- Hosting: Vercel
 
-Schools compete like esports teams,
-students build public track records, and
-hiring being based on performance, not prestige.
+---
 
-Join the Beta - 
+## 🌎 Vision
 
-VestEd is currently in beta. Take advantage of:
+VestEd aims to become the competitive infrastructure layer for finance education.
 
-- Free lifetime access
-- Early leaderboard positioning
-- First-mover advantage in competitive finance
+A platform where:
+- Skill matters more than prestige
+- Students build verified investing track records
+- Universities compete globally
+- Employers discover top financial talent through performance
 
-Contact - 
+---
 
-vestedaiownership@gmail.com
+## 🚧 Future Features
+
+- Verified recruiter profiles
+- Employer scouting dashboards
+- AI-generated investment reports
+- Stock pitch competitions
+- Mobile application
+- Team portfolio collaboration
+- Advanced analytics dashboards
+- Resume integration & achievement badges
+
+---
+
+## 📬 Contact
+
+Email: vestedaiownership@gmail.com
+
+---
+
+## 📄 License
+
+MIT License © 2026 VestEd
+
+---
+
+# 🏛 VestEd
+
+### Become the 1%
+
+Invest, compete, WIN.
